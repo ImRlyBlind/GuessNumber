@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:guess_number/pages/game/game_page.dart';
+//import 'package:guess_number/pages/game/game_page.dart';
 import 'package:guess_number/pages/game/guess_page2.dart';
-import 'package:guess_number/pages/game/midterm.dart';
+//import 'package:guess_number/pages/game/midterm.dart';
 
 
 void main() {
